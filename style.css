@@ -6,7 +6,7 @@
 }
 
 :root {
-  --hue: 170;
+  --hue: 230;
 
   --primary-color: hsl(var(--hue), 100%, 26%);
   --headline: hsl(210, 11%, 15%);
@@ -151,7 +151,8 @@ button.open-menu path[stroke*='#00856F'],
 }
 
 body.menu-expanded #navigation .logo path,
-#navigation.scroll .logo path {
+#navigation.scroll .logo path,
+#navigation.scroll .logo .fil1 {
   fill: white;
 }
 
