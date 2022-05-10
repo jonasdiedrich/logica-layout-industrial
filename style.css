@@ -438,10 +438,11 @@ footer .logo {
 }
 
 footer .logo svg {
-  width: 23.6rem;
-  height: 3.1rem;
+  width: 15rem;
+  height: 5rem;
 }
 
+footer .logo .fil1,
 footer .logo path {
   fill: white;
 }
@@ -649,10 +650,12 @@ footer .social-links {
 
   #home h1 {
     font-size: 5.2rem;
+    margin-top: 2rem;
   }
 
   #home .content p {
-    font-size: 1.8rem;
+    font-size: 1.3rem;
+    
   }
 
   #home .stats {
@@ -677,7 +680,7 @@ footer .social-links {
   }
 
   #home img {
-    width: 42rem;
+    width: 50rem;
   }
 
   /*=== SERVICES ===============================*/
