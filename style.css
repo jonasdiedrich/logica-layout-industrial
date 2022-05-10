@@ -314,7 +314,7 @@ body.menu-expanded button path {
 }
 
 #home p {
-  font-size: 1.8rem;
+  font-size: 3rem;
   line-height: 150%;
   font-weight: 400;
   color: var(--paragraph);
@@ -654,8 +654,7 @@ footer .social-links {
   }
 
   #home .content p {
-    font-size: 1.3rem;
-    
+    font-size: 1.7rem;    
   }
 
   #home .stats {
@@ -680,7 +679,7 @@ footer .social-links {
   }
 
   #home img {
-    width: 50rem;
+    width: 60rem;
   }
 
   /*=== SERVICES ===============================*/
