@@ -298,7 +298,7 @@ body.menu-expanded button path {
 }
 
 #home p {
-  font-size: 1rem;
+  font-size: 1.3rem;
   line-height: 150%;
   font-weight: 400;
   color: var(--paragraph);
@@ -648,7 +648,7 @@ footer .social-links {
   }
 
   #home .content p {
-    font-size: 1.7rem;    
+    font-size: 1.6rem;    
   }
 
   #home .stats {
