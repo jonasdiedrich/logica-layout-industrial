@@ -58,8 +58,8 @@ ul {
 img {
   max-width: 100%;
   
-  border-radius: .5rem;
-}
+  border-radius: .6rem;
+  }
 
 section {
   padding-block: 10rem;
@@ -633,6 +633,7 @@ footer .social-links {
     grid-template-areas:
       'A B'
       'C C';
+    margin-top: 3rem;
   }
 
   #home .col-a {
