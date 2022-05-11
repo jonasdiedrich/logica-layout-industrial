@@ -673,10 +673,10 @@ footer .social-links {
   }
 
   #home img {
-    max-width: 150%;
+    max-width: 140%;
     width: 60rem;
-    object-position: 0 2rem;
-    margin-top: 6rem;
+    object-position: 0 1rem;
+    margin-top: 11rem;
     margin-left: -10rem;
   }
 
