@@ -6,7 +6,7 @@
 }
 
 :root {
-  --hue: 230;
+  --hue: 209;
 
   --primary-color: hsl(var(--hue), 100%, 26%);
   --headline: hsl(210, 11%, 15%);
@@ -57,33 +57,16 @@ ul {
 
 img {
   max-width: 100%;
+  
+  border-radius: .5rem;
 }
 
 section {
   padding-block: 10rem;
 }
 
-section header h4 {
-  font-size: 1.4rem;
-  font-weight: 700;
-  line-height: 150%;
-  letter-spacing: 0.08rem;
-  color: var(--primary-color);
-
-  text-transform: uppercase;
-
-  margin-bottom: 1.6rem;
-}
-
-section header h2 {
-  font-size: 3rem;
-  line-height: 3.9rem;
-
-  color: var(--headline);
-}
-
 section header h1 {
-  font-size: 3.4rem;
+  font-size: 3rem;
   color: var(--headline);
   line-height: 130%;
 
@@ -314,7 +297,7 @@ body.menu-expanded button path {
 }
 
 #home p {
-  font-size: 3rem;
+  font-size: 1rem;
   line-height: 150%;
   font-weight: 400;
   color: var(--paragraph);
