@@ -673,7 +673,11 @@ footer .social-links {
   }
 
   #home img {
+    max-width: 150%;
     width: 60rem;
+    object-position: 0 2rem;
+    margin-top: 6rem;
+    margin-left: -10rem;
   }
 
   /*=== SERVICES ===============================*/
